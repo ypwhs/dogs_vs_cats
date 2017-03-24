@@ -1,0 +1,7 @@
+train*
+test*
+*.h5
+*.zip
+*.png
+pred.csv
+.ipy*
