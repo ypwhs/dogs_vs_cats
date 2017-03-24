@@ -126,6 +126,8 @@ write_gap(Xception, (299, 299), xception.preprocess_input)
 * test (12500, 2048)
 * label (25000,)
 
+如果你不想自己计算特征向量，可以直接在这里下载导出的文件：[GitHub releases](https://github.com/ypwhs/dogs_vs_cats/releases/tag/gap) [百度云](https://pan.baidu.com/s/1pK7psxX#list/path=%2Fdataset%2FDogs%20vs%20Cats)
+
 参考资料：
 
 * [ResNet](https://arxiv.org/abs/1512.03385) 15.12
