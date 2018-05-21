@@ -302,4 +302,4 @@ $$\textrm{LogLoss} = - \frac{1}{n} \sum_{i=1}^n \left[ y_i \log(\hat{y}_i) + (1 
 
 我们可以从上图中看到，模型对于前十个样本都给出了很肯定的预测，提交到 kaggle 以后，得分也是很棒，0.04141，在全球排名中可以排到20/1314。我们如果要继续优化模型表现，可以使用更棒的预训练模型来导出特征向量，或者对预训练模型进行微调（fine-tune），或者进行数据增强（data augmentation）等。
 
-参考链接：[面向小数据集构建图像分类模型](http://keras-cn.readthedocs.io/en/latest/blog/image_classification_using_very_little_data/)
+参考链接：[面向小数据集构建图像分类模型](https://keras-cn-docs.readthedocs.io/zh_CN/latest/blog/image_classification_using_very_little_data/)
