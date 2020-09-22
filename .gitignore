@@ -5,3 +5,4 @@ test*
 *.png
 pred.csv
 .ipy*
+*.idea
